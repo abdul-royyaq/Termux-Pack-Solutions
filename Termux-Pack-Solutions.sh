@@ -77,7 +77,7 @@ echo -e $red"00." $redflip"Exit"$resetflip
 sleep 1
 echo 
 echo -e $green"Type this number!"
-read -p "user@termux $ " opsi;
+read -p "select this number $ " opsi;
 
 # Opsi
 
