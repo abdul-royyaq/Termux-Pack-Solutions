@@ -91,7 +91,9 @@ read -p "select this number $ " opsi;
 
     case $opsi in
 
-    00) echo "Thankyou for using this tools!"
+    00) echo 
+    echo -e $red"Thankyou for using this tools!"
+    echo -e $yellow"Good Bye!"
     exit;
     ;;
     01) termux-setup-storage
