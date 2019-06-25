@@ -20,6 +20,7 @@ resetflip='\e[1;0m'
 # Loop Script
 
 loop() {
+    clear
     echo
     echo -e $green"Please type this number to select plugin and programming language to install!"
     sleep 1
