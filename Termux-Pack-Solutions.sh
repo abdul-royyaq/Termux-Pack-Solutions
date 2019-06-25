@@ -2,7 +2,7 @@
 
 # Title     : Termux Pack Solution
 # Author    : Abdul Royyaq
-# Version   : 1.12 Beta
+# Version   : 1.11 Beta
 # © 2016-2019 Semarang X-tream Project - Abdul Royyaq | All Rights Reserved
 
 # Parameters
@@ -245,7 +245,7 @@ echo
 echo -e $red"======================================================="
 echo -e "| "$green"Title     : "$purple"Termux Pack Solutions                   "$red"|"
 echo -e "| "$green"Author    : "$purple"Abdul Royyaq                            "$red"|"
-echo -e "| "$green"Version   : "$purple"1.10 Beta                               "$red"|"
+echo -e "| "$green"Version   : "$purple"1.11 Beta                               "$red"|"
 echo -e "| --------------------------------------------------- |"
 echo -e "| "$purple"This tools sync to TOOLSINSTALLERv3 By TUANB4DUT    "$red"|"
 echo -e "| "$yellow"Thanks to TUANB4DUT for TOOLSINSTALLERv3            "$red"|"
@@ -323,106 +323,158 @@ read -p "select this number $ " opsi;
     01) termux-setup-storage
     echo
     echo "Termux can access storage!"
+    sleep 1
+    loop
     ;;
     02) pkg install termux-api -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     03) pkg install git -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     04) pkg install wget -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     05) pkg install nano -y
     echo 
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     06) pkg install neovim -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     07) pkg install mpv -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     08) pkg install w3m -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     09) pkg install tor -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     10) pkg install aria2 -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     12) pkg install tree -y
     echo
     echo "Plugin success installed!"
+    sleep 1
+    loop
     ;;
     13) pkg install python -y
     echo
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     14) pkg install python2 -y
     echo
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     15) pkg install php -y
     echo 
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     16) pkg install ruby -y
     echo
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     17) pkg install clang -y
     echo
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     18) pkg install curl -y
     echo
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     19) pkg install perl -y
     echo
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     20) pkg install ecj dx -y
     echo
     echo "Language success installed!"
+    sleep 1
+    loop
     ;;
     21) pkg install figlet -y
     echo
     echo "Additional packages successfully installed!"
+    sleep 1
+    loop
     ;;
     22) pkg install lolcat -y
     echo
     echo "Additional packages successfully installed!"
+    sleep 1
+    loop
     ;;
     23) pkg install neofetch -y 
     echo
     echo "Additional packages successfully installed!"
+    sleep 1
+    loop
     ;;
     24) pkg install toilet -y
     echo
     echo "Additional packages successfully installed!"
+    sleep 1
+    loop
     ;;
     25) pkg install cmatrix -y
     echo
     echo "Additional packages successfully installed!"
+    sleep 1
+    loop
     ;;
     26) pkg install lynx -y
     echo
     echo "Additional packages successfully installed!"
+    sleep 1
+    loop
     ;;
     27) pkg install sl -y
     echo
     echo "Additional packages successfully installed!"
+    sleep 1
+    loop
     ;;
     TOOLSINSTALLERv3) git clone http://github.com/TUANB4DUT/TOOLSINSTALLERv3 &&
     cd TOOLSINSTALLERv3 &&
