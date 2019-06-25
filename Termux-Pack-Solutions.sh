@@ -2,7 +2,7 @@
 
 # Title     : Termux Pack Solution
 # Author    : Abdul Royyaq
-# Version   : 1.11 Beta
+# Version   : 1.12 Beta
 # © 2016-2019 Semarang X-tream Project - Abdul Royyaq | All Rights Reserved
 
 # Parameters
