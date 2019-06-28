@@ -23,13 +23,13 @@ $ apt update && apt upgrade && pkg install git && git clone https://github.com/a
 
 $ cd Termux-Pack-Solutions
 
-$ chmod +x Termux-Pack-Solutions.sh
+$ chmod +x Termux-Pack-Solutions
 
-$ ./Termux-Pack-Solutions.sh
+$ ./Termux-Pack-Solutions
 
 OR
 
-$ cd Termux-Pack-Solutions && chmod+x Termux-Pack-Solutions.sh && ./Termux-Pack-Solutions.sh
+$ cd Termux-Pack-Solutions && chmod +x Termux-Pack-Solutions && ./Termux-Pack-Solutions
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
