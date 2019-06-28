@@ -45,8 +45,6 @@ read -p "license terms $ " lic;
         sleep 0.5
         license
     fi
-
-
 }
 
 loop() {
@@ -281,7 +279,6 @@ loop() {
         sleep 2
         loop
         esac
-
 }
 
 # Start
