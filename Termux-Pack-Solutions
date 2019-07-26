@@ -24,8 +24,7 @@ echo
 echo -e $yellow"---- LICENSE TERMS ----"
 echo -e $green"(a) "$yellow"You must submit to the agreement that has been set."
 echo -e $green"(b) "$yellow"This program is made for personal use not to be commercial."
-echo -e $green"(c) "$yellow"The author of this platform retain the right to modify/revoke this 
-license at any timeunder any conditions seen appropriate by the author."
+echo -e $green"(c) "$yellow"The author of this platform retain the right to modify or revoke this license at any timeunder any conditions seen appropriate by the author."
 echo
 echo -e $green"Type" $red"agree" $green"to continue!"
 read -p "license terms $ " lic;
