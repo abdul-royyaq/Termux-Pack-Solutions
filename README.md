@@ -2,7 +2,7 @@
 
 SOLUTION FOR ALL PLUGIN INSTALATION AND PROGRAMMING LANGUAGE IN TERMUX.
 
-SYNC TO TOOLSINSTALLERv3 & TOOLSINSTALLERv4 BY [TUANB4DUT](https://github.com/TUANB4DUT/) WITH MORE THAN 700 TOOLS.
+SYNC TO [TOOLSINSTALLERv3](https://github.com/TUANB4DUT/TOOLSINSTALLERv3) & [TOOLSINSTALLERv4](https://github.com/TUANB4DUT/TOOLSINSTALLERv4) BY [TUANB4DUT](https://github.com/TUANB4DUT/) WITH MORE THAN 700 TOOLS.
 
 ## INSTALLATION
 
@@ -47,4 +47,4 @@ cd Termux-Pack-Solutions && chmod +x Termux-Pack-Solutions && ./Termux-Pack-Solu
 
 © 2019 Abdul Royyaq | All Right Reserved
 
-2016-2019 Semarang X-tream Project
+2016-2019 [Semarang X-tream Project](https://github.com/SemarangX-treamProject)
