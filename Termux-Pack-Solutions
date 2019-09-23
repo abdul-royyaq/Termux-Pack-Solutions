@@ -2,7 +2,7 @@
 
 # Title     : Termux Pack Solution
 # Author    : Abdul Royyaq
-# Version   : 1.12 Beta
+# Version   : 1.13 Beta
 # © 2016-2019 Semarang X-tream Project - Abdul Royyaq | All Rights Reserved
 
 # Parameters
@@ -74,7 +74,7 @@ loop() {
     echo "23. install neofetch                  27. install sl"
     echo "24. install toilet"
     echo
-    echo -e $green "Type" $red"TOOLSINSTALLERv3" $green"to install TOOLSINSTALLERv3!"
+    echo -e $green "Type" $red"TOOLSINSTALLERv3" $green"to install TOOLSINSTALLERv3!, Type" $red "TOOLSINSTALLERv4" $green "to install TOOLSINSTALLERv4!"
     echo
     echo -e $red"00." $redflip"Exit"$resetflip
     sleep 1
@@ -260,7 +260,7 @@ loop() {
         echo -e $yellow"Tools Success installed!"
         echo
         echo -e $green"Do you want open TOOLSINSTALLERv3? y/n"
-        read -p "open TOOLSINSTALLERv3 $ " opsi2;
+        read -p "open TOOLSINSTALLERv3? y/n $ " opsi2;
 
             # Opsi Open
 
@@ -268,6 +268,23 @@ loop() {
                 loop
             else
                 ./TUANB4DUT.sh
+            fi
+        ;;
+        TOOLSINSTALLERv4) git clone http://github.com/TUANB4DUT/TOOLSINSTALLERv4 &&
+        cd TOOLSINSTALLERv4 &&
+        chmod +x TUANB4DUT..sh
+        echo
+        echo -e $yellow"Tools Success installed!"
+        echo
+        echo -e $green"Do you want open TOOLSINSTALLERv4? y/n"
+        read -p "open TOOLSINSTALLERv4? y/n $ " opsi3;
+
+            # Opsi Open
+
+            if [ $opsi3 = "n" ]; then
+                loop
+            else
+                ./TUANB4DUT..sh
             fi
         ;;
         *) clear
@@ -287,10 +304,10 @@ echo
 echo -e $red"======================================================="
 echo -e "| "$green"Title     : "$purple"Termux Pack Solutions                   "$red"|"
 echo -e "| "$green"Author    : "$purple"Abdul Royyaq                            "$red"|"
-echo -e "| "$green"Version   : "$purple"1.12 Beta                               "$red"|"
+echo -e "| "$green"Version   : "$purple"1.13 Beta                               "$red"|"
 echo -e "| --------------------------------------------------- |"
-echo -e "| "$purple"This tools sync to TOOLSINSTALLERv3 By TUANB4DUT    "$red"|"
-echo -e "| "$yellow"Thanks to TUANB4DUT for TOOLSINSTALLERv3            "$red"|"
+echo -e "| "$purple"This tools sync to TOOLSINSTALLERv3 & v4 By TUANB4DUT"$red"|"
+echo -e "| "$yellow"Thanks to TUANB4DUT for TOOLSINSTALLERv3 & v4         "$red"|"
 echo -e "| "$green"Contact to Developer "$blue"http://github.com/abdul-royyaq "$red"|"
 echo -e "| "$green"Contact to TUANB4DUT "$blue"http://github.com/TUANB4DUT    "$red"|"
 echo -e "| --------------------------------------------------- |"
