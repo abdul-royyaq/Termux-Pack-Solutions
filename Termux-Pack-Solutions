@@ -301,19 +301,19 @@ loop() {
 
 clear
 echo
-echo -e $red"======================================================="
-echo -e "| "$green"Title     : "$purple"Termux Pack Solutions                   "$red"|"
-echo -e "| "$green"Author    : "$purple"Abdul Royyaq                            "$red"|"
-echo -e "| "$green"Version   : "$purple"1.13 Beta                               "$red"|"
-echo -e "| --------------------------------------------------- |"
-echo -e "| "$purple"This tools sync to TOOLSINSTALLERv3 & v4 By TUANB4DUT"$red"|"
+echo -e $red"========================================================="
+echo -e "| "$green"Title     : "$purple"Termux Pack Solutions                     "$red"|"
+echo -e "| "$green"Author    : "$purple"Abdul Royyaq                              "$red"|"
+echo -e "| "$green"Version   : "$purple"1.13 Beta                                 "$red"|"
+echo -e "| ----------------------------------------------------- |"
+echo -e "| "$purple"This tools sync to TOOLSINSTALLERv3 & v4 By TUANB4DUT "$red"|"
 echo -e "| "$yellow"Thanks to TUANB4DUT for TOOLSINSTALLERv3 & v4         "$red"|"
-echo -e "| "$green"Contact to Developer "$blue"http://github.com/abdul-royyaq "$red"|"
-echo -e "| "$green"Contact to TUANB4DUT "$blue"http://github.com/TUANB4DUT    "$red"|"
-echo -e "| --------------------------------------------------- |"
-echo -e "| "$cyan"© 2019 Abdul Royyaq | All Right Reserved            "$red"|"
-echo -e "| "$cyan"2016-2019 Semarang X-tream Project                  "$red"|"
-echo -e "======================================================="
+echo -e "| "$green"Contact to Developer "$blue"http://github.com/abdul-royyaq   "$red"|"
+echo -e "| "$green"Contact to TUANB4DUT "$blue"http://github.com/TUANB4DUT      "$red"|"
+echo -e "| ----------------------------------------------------- |"
+echo -e "| "$cyan"© 2019 Abdul Royyaq | All Right Reserved              "$red"|"
+echo -e "| "$cyan"2016-2019 Semarang X-tream Project                    "$red"|"
+echo -e "========================================================="
 echo
 echo -e $cyanflip"Welcome to Termux Pack Solutions!"$resetflip
 sleep 1
