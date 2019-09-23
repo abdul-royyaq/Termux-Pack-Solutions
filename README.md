@@ -4,32 +4,44 @@ SOLUTION FOR ALL PLUGIN INSTALATION AND PROGRAMMING LANGUAGE IN TERMUX.
 
 SYNC TO TOOLSINSTALLERv3 BY TUANB4DUT WITH MORE THAN 300 TOOLS.
 
----- INSTALATION ----
+## INSTALATION
 
-$apt update
-
-$apt upgrade
-
-$pkg install git
-
-$git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
-
-OR
-
-$apt update && apt upgrade && pkg install git && git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
-
-
----- RUNNING ----
-
-$cd Termux-Pack-Solutions
-
-$chmod +x Termux-Pack-Solutions
-
-$./Termux-Pack-Solutions
+'''bash
+apt update
+'''
+'''bash
+apt upgrade
+'''
+'''bash
+pkg install git
+'''
+'''bash
+git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
+'''
 
 OR
 
-$cd Termux-Pack-Solutions && chmod +x Termux-Pack-Solutions && ./Termux-Pack-Solutions
+'''bash
+apt update && apt upgrade && pkg install git && git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
+'''
+
+## RUNNING
+
+'''bash
+cd Termux-Pack-Solutions
+'''
+'''bash
+chmod +x Termux-Pack-Solutions
+'''
+'''bash
+./Termux-Pack-Solutions
+'''
+
+OR
+
+'''bash
+cd Termux-Pack-Solutions && chmod +x Termux-Pack-Solutions && ./Termux-Pack-Solutions
+'''
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
