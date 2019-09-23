@@ -6,42 +6,42 @@ SYNC TO TOOLSINSTALLERv3 BY TUANB4DUT WITH MORE THAN 300 TOOLS.
 
 ## INSTALATION
 
-'''bash
+```bash
 apt update
-'''
-'''bash
+```
+```bash
 apt upgrade
-'''
-'''bash
+```
+```bash
 pkg install git
-'''
-'''bash
+```
+```bash
 git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
-'''
+```
 
 OR
 
-'''bash
+```bash
 apt update && apt upgrade && pkg install git && git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
-'''
+```
 
 ## RUNNING
 
-'''bash
+```bash
 cd Termux-Pack-Solutions
-'''
-'''bash
+```
+```bash
 chmod +x Termux-Pack-Solutions
-'''
-'''bash
+```
+```bash
 ./Termux-Pack-Solutions
-'''
+```
 
 OR
 
-'''bash
+```bash
 cd Termux-Pack-Solutions && chmod +x Termux-Pack-Solutions && ./Termux-Pack-Solutions
-'''
+```
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
