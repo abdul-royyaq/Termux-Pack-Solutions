@@ -19,10 +19,22 @@ pkg install git
 git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
 ```
 
+Mirror Git
+
+```bash
+git clone https://gitlab.com/abdul-royyaq/Termux-Pack-Solutions.git
+```
+
 OR
 
 ```bash
 apt update && apt upgrade && pkg install git && git clone https://github.com/abdul-royyaq/Termux-Pack-Solutions.git
+```
+
+Mirror Git
+
+```bash
+apt update && apt upgrade && pkg install git && git clone https://gitlab.com/abdul-royyaq/Termux-Pack-Solutions.git
 ```
 
 ## RUNNING
